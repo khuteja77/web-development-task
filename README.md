@@ -16,7 +16,7 @@ If any weekday is missing in the input, it calculates a value for that day based
 3. Install any required dependencies if prompted.  
 4. Open the terminal in VS Code.  
 5. Run the script using the `node` command.  
-6. View the result in the **terminal output section**.
+6. View the result in the **terminal output section**.or in command prompt type node filename
 
 ---
 
@@ -39,19 +39,7 @@ If any weekday is missing in the input, it calculates a value for that day based
 
 ---
 
-## 📦 Recommended Setup
 
-- **Editor**: VS Code  
-- **Runtime**: Node.js  
-- **OS**: Windows, macOS, or Linux  
-- **Terminal**: Integrated VS Code Terminal
 
----
 
-## 📝 License
 
-This project is intended for learning and technical assessment purposes.  
-You may modify and use it for your personal or educational projects.
-```
-
-Would you like me to make it a downloadable `.md` file too? (for quick upload to GitHub) 📄✨
