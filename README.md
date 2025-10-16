@@ -1,7 +1,5 @@
 # web-development-task
-Of course! Here’s a clean and simple **`README.md`** version with only **steps and instructions** — no code or output included 👇
 
-```markdown
 # Weekday Aggregation Function
 
 This project processes date–value data and aggregates it by weekdays.  
@@ -9,7 +7,7 @@ If any weekday is missing in the input, it calculates a value for that day based
 
 ---
 
-## 🧭 Steps to Run
+##  Steps to Run
 
 1. Clone the repository to your local system.  
 2. Open the project folder in **VS Code**.  
@@ -20,7 +18,7 @@ If any weekday is missing in the input, it calculates a value for that day based
 
 ---
 
-## 🧪 Steps to Test
+##  Steps to Test
 
 1. Modify the input data inside the main script file.  
 2. Save the file.  
