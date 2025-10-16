@@ -1,0 +1,22 @@
+for input 1
+{
+  Mon: -6,
+  Tue: 2,
+  Wed: 2,
+  Thu: 4,
+  Fri: 6,
+  Sat: 8,
+  Sun: 2
+}
+
+
+for input 
+{
+  Mon: 2,
+  Tue: 4,
+  Wed: 6,
+  Thu: 8,
+  Fri: 10,
+  Sat: 12,
+  Sun: 14
+}
